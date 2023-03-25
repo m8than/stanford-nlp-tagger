@@ -20,6 +20,6 @@
   },
   "require": {
     "php": ">=7",
-    "patrickschur/language-detection": "^3"
+    "m8than/language-detection": ">=3"
   }
 }
